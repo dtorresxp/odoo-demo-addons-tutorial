@@ -44,6 +44,8 @@
 
 12. [odoo 觀念 - 實作 config settings](demo_config_settings)
 
+13. [odoo 觀念 - datetime 教學](demo_datetime_tutorial)
+
 ## 其他
 
 * [Youtube Tutorial - 使用 CLI 安裝,更新 addons](https://youtu.be/k19N2x8f4gw)
