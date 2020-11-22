@@ -44,7 +44,7 @@
 
 12. [odoo 觀念 - 實作 config settings](demo_config_settings)
 
-13. [odoo 觀念 - odatetime 教學](demo_datetime_tutorial)
+13. [odoo 觀念 - datetime 教學](demo_datetime_tutorial)
 
 ## 其他
 
